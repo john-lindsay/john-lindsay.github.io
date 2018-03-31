@@ -1,0 +1,84 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 1000px;
+       height: 100%;
+       background-color: #857E73;
+       font-family: Courier;
+       color: #FFF6B0;
+       font-size: 17;
+    }
+
+    header {
+        background-color: #FF630D;
+        padding: 10px;
+        border-top: 20px solid #000000;
+        border-radius: 15px 25px 15px 15px;
+        font-size: 25;
+        color: #FFFFFF;
+        margin-left: ;
+        display: block;
+    }
+    nav {
+        float: left;
+        width: 100%;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        background-color: #FFFFFF;
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+        border: 2px solid #000000;
+        margin: 4px;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left
+        ;
+    }
+    h2 {
+        background-color: #000000;
+        padding: 10px;
+        border-top: 20px solid #FF630D;
+        border-radius: 20px 20px;
+        color: #FFFFFF;
+        margin-left: ;
+        display: block;
+        width: 980px;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
